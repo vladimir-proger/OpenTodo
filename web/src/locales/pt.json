@@ -7077,5 +7077,9 @@
   "Suggest after adding (this device)": "Sugerir após adicionar (este dispositivo)",
   "Single-key shortcuts": "Atalhos de uma só tecla",
   "Single-key shortcuts (this device)": "Atalhos de uma só tecla (este dispositivo)",
-  "Letters and symbols alone run commands. Turn off for speech input. This device only.": "Letras e símbolos sozinhos executam comandos. Desativa para a entrada por voz. Apenas este dispositivo."
+  "Letters and symbols alone run commands. Turn off for speech input. This device only.": "Letras e símbolos sozinhos executam comandos. Desativa para a entrada por voz. Apenas este dispositivo.",
+  "Reorder": "Reordenar",
+  "Move to top": "Mover para o topo",
+  "Move to bottom": "Mover para o fim",
+  "Move {name}": "Mover {name}"
 }

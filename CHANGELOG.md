@@ -8,6 +8,7 @@ All notable changes to OpenTodo are documented here. The format follows [Keep a 
 
 - **Every screen is checked for accessibility on every change.** Each pull request now opens every screen and overlay of the app at phone and computer widths, light and dark, and fails on any serious WCAG 2.2 AA problem axe-core finds, a focused control without a visible ring or hidden under a bar, a target smaller than 24 px with no space around it, sideways scrolling at 320 px (400% zoom), text cut off with wider spacing, or a password field that refuses a paste. Every night the same runs in English and German with large browser text. The 2,000-task list is checked as a screen reader gets it.
 - **Single-key shortcuts can be turned off.** If you use speech input or press keys by accident, turn off **Settings → General → Keyboard → Single-key shortcuts** on that device: a letter, number or symbol on its own (q, j, 1, ?, g then a key) then does nothing, while shortcuts with Ctrl, Alt or ⌘ and the arrow, Enter, Escape and Delete keys keep working.
+- **Everything you can drag, you can also do with one click or tap.** A task's menu has **Reorder** (Move up, Move down, Move to top, Move to bottom) in projects, the Inbox, a label's page and saved views; frames, a task's turn order and objectives have a handle that offers **Move up** and **Move down** when clicked; a click on the sidebar's or the task panel's edge switches between the widest and the usual width. A test now fails when a new drag has no such alternative (WCAG 2.2 2.5.7).
 
 ### Fixed
 

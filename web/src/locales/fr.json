@@ -7077,5 +7077,9 @@
   "Suggest after adding (this device)": "Suggérer après l’ajout (cet appareil)",
   "Single-key shortcuts": "Raccourcis à une touche",
   "Single-key shortcuts (this device)": "Raccourcis à une touche (cet appareil)",
-  "Letters and symbols alone run commands. Turn off for speech input. This device only.": "Lettres et symboles seuls lancent des commandes. À désactiver pour la saisie vocale. Cet appareil uniquement."
+  "Letters and symbols alone run commands. Turn off for speech input. This device only.": "Lettres et symboles seuls lancent des commandes. À désactiver pour la saisie vocale. Cet appareil uniquement.",
+  "Reorder": "Réordonner",
+  "Move to top": "Placer en haut",
+  "Move to bottom": "Placer en bas",
+  "Move {name}": "Déplacer {name}"
 }

@@ -7077,5 +7077,9 @@
   "Suggest after adding (this device)": "Nach dem Hinzufügen vorschlagen (dieses Gerät)",
   "Single-key shortcuts": "Tastenkürzel mit einer Taste",
   "Single-key shortcuts (this device)": "Tastenkürzel mit einer Taste (dieses Gerät)",
-  "Letters and symbols alone run commands. Turn off for speech input. This device only.": "Buchstaben und Zeichen allein führen Befehle aus. Für Spracheingabe ausschalten. Nur dieses Gerät."
+  "Letters and symbols alone run commands. Turn off for speech input. This device only.": "Buchstaben und Zeichen allein führen Befehle aus. Für Spracheingabe ausschalten. Nur dieses Gerät.",
+  "Reorder": "Reihenfolge",
+  "Move to top": "Ganz nach oben",
+  "Move to bottom": "Ganz nach unten",
+  "Move {name}": "{name} verschieben"
 }
